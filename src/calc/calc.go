@@ -9,5 +9,9 @@ func main() {
 }
 
 func soma(a int, b int) int {
-	return a + b*(4)
+	return a + b
+}
+
+func subtrai(a int, b int) int {
+	return a - b
 }
